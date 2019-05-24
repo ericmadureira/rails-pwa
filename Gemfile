@@ -26,6 +26,11 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# Gems to turn the application into a Progressive Web App
+gem 'materializecss'
+gem 'jquery-rails'
+gem 'serviceworker-rails'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
