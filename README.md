@@ -27,4 +27,5 @@ From here on things get different if you want to use Docker or not:
 ## References
 * https://docs.docker.com/compose/rails/
 * https://onebitcode.com/pwa-rails/ (pt-BR) - Thanks to Leonardo Scorza and his amazing job teaching at OneBitCode
-* 
+* https://developers.google.com/web/progressive-web-apps/
+* https://developers.google.com/web/progressive-web-apps/desktop
