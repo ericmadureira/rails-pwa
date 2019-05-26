@@ -1,5 +1,8 @@
 # Rails PWA (Progressive Web App)
 
+PWA is one of the most interesting topics in web for me and I made this small project to learn more about it.
+There is a list of requirements for an app to be called a PWA and I enjoy how the Ruby environment already have a gem to help us complete this list.
+
 ## Technologies used
 * Ruby: **2.5.5**
 * Rails: **5.2.3**
@@ -25,7 +28,7 @@ From here on things get different if you want to use Docker or not:
 8. Your rails PWA is ready at localhost:3000.
 
 ## References
+* https://onebitcode.com/pwa-rails/ (pt-BR) - Thanks to Leonardo Scorza for his amazing job teaching at OneBitCode
 * https://docs.docker.com/compose/rails/
-* https://onebitcode.com/pwa-rails/ (pt-BR) - Thanks to Leonardo Scorza and his amazing job teaching at OneBitCode
 * https://developers.google.com/web/progressive-web-apps/
 * https://developers.google.com/web/progressive-web-apps/desktop
